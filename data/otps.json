@@ -1,0 +1,23 @@
+[
+  {
+    "recipient": "vishnuesiddamsetti@gmail.com",
+    "otp": "967087",
+    "expiry": 1753009324883,
+    "type": "email",
+    "userId": "ce96bcb8-7a10-45b1-a1ae-329c0eb2bcb6"
+  },
+  {
+    "recipient": "7661010000",
+    "otp": "474722",
+    "expiry": 1753009324887,
+    "type": "mobile",
+    "userId": "ce96bcb8-7a10-45b1-a1ae-329c0eb2bcb6"
+  },
+  {
+    "recipient": "7661010300",
+    "otp": "731439",
+    "expiry": 1753009342031,
+    "type": "mobile",
+    "userId": "9fda9f9a-1692-4732-ad55-d8baff7e7b9b"
+  }
+]

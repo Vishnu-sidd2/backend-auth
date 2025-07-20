@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ce96bcb8-7a10-45b1-a1ae-329c0eb2bcb6",
+    "name": "Vishfnu ",
+    "email": "vishnuesiddamsetti@gmail.com",
+    "mobile": "7661010200",
+    "password": "$2b$10$FeUI9sHvBGvuySq/VgJX5.2CGlpKwZGTZSFN34dI3Z3/9jP1uQkUC",
+    "isVerified": false
+  },
+  {
+    "id": "9fda9f9a-1692-4732-ad55-d8baff7e7b9b",
+    "name": "bhavya ",
+    "email": "sddamsetti@gmail.com",
+    "mobile": "7661010300",
+    "password": "$2b$10$kEzKDXSI6DUfMKW6vkP6CO7VY1R6PYvihDbhPsxrvYybp0Hb1PxcC",
+    "isVerified": true
+  }
+]
