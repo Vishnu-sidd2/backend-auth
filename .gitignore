@@ -1,2 +1,4 @@
 node_modules/
 .env
+data/refresh_token.json
+data/access_token.json
